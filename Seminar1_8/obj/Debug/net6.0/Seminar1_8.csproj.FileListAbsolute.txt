@@ -1,0 +1,15 @@
+C:\Folder\CShFolder\Seminar1_8\obj\Debug\net6.0\Seminar1_8.csproj.AssemblyReference.cache
+C:\Folder\CShFolder\Seminar1_8\obj\Debug\net6.0\Seminar1_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Folder\CShFolder\Seminar1_8\obj\Debug\net6.0\Seminar1_8.AssemblyInfoInputs.cache
+C:\Folder\CShFolder\Seminar1_8\obj\Debug\net6.0\Seminar1_8.AssemblyInfo.cs
+C:\Folder\CShFolder\Seminar1_8\obj\Debug\net6.0\Seminar1_8.csproj.CoreCompileInputs.cache
+C:\Folder\CShFolder\Seminar1_8\bin\Debug\net6.0\Seminar1_8.exe
+C:\Folder\CShFolder\Seminar1_8\bin\Debug\net6.0\Seminar1_8.deps.json
+C:\Folder\CShFolder\Seminar1_8\bin\Debug\net6.0\Seminar1_8.runtimeconfig.json
+C:\Folder\CShFolder\Seminar1_8\bin\Debug\net6.0\Seminar1_8.dll
+C:\Folder\CShFolder\Seminar1_8\bin\Debug\net6.0\Seminar1_8.pdb
+C:\Folder\CShFolder\Seminar1_8\obj\Debug\net6.0\Seminar1_8.dll
+C:\Folder\CShFolder\Seminar1_8\obj\Debug\net6.0\refint\Seminar1_8.dll
+C:\Folder\CShFolder\Seminar1_8\obj\Debug\net6.0\Seminar1_8.pdb
+C:\Folder\CShFolder\Seminar1_8\obj\Debug\net6.0\Seminar1_8.genruntimeconfig.cache
+C:\Folder\CShFolder\Seminar1_8\obj\Debug\net6.0\ref\Seminar1_8.dll
